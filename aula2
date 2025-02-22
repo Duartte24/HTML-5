@@ -1,0 +1,40 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 2</title>
+</head>
+<body>
+    <h1>Esse e meu Site Html</h1>
+    <p>
+    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam corrupti delectus dolor voluptatem nobis, repellat reprehenderit molestiae. Libero deserunt obcaecati odio, vero at autem, ipsa, repellat facere inventore alias earum?
+    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam corrupti delectus dolor voluptatem nobis, repellat reprehenderit molestiae. Libero deserunt obcaecati odio, vero at autem, ipsa, repellat facere inventore alias earum?
+    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam corrupti delectus dolor voluptatem nobis, repellat reprehenderit molestiae. Libero deserunt obcaecati odio, vero at autem, ipsa, repellat facere inventore alias earum?
+    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam corrupti delectus dolor voluptatem nobis, repellat reprehenderit molestiae. Libero deserunt obcaecati odio, vero at autem, ipsa, repellat facere inventore alias earum?
+    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam corrupti delectus dolor voluptatem nobis, repellat reprehenderit molestiae. Libero deserunt obcaecati odio, vero at autem, ipsa, repellat facere inventore alias earum?
+    Lorem ipsum, dolor sit amet consectetur adipisicing <b style="color: purple;"> Ipsam corrupti delectus dolor voluptatem nobis, repellat reprehenderit molestiae</b>. Libero deserunt obcaecati odio, vero at autem, ipsa, repellat facere inventore alias earum?
+    </p>
+    <a href="https://www.youtube.com/watch?v=LT9eIRuv-RU
+    pp=ygUZI21lbGhvcmFkdWJvcGFyYW1hcmFjdWrDoQ%3D%3D"target="_blank">bom dia</a><br>
+    
+    <h3>Lista Ordenada Frutas</h3>
+    <ol>
+        <li><a href="https://www.youtube.com/watch?v=LT9eIRuv-RU">Maçã</a>
+        <li>Banana</li>
+        <li>Uva</li>
+        <li>pera</li>
+
+    </ol>
+    
+   <h3> Lista Simples Países</h3>
+    <ul>
+        <li>Brasil</li>
+        <li>Japão</li>
+        <li>Coreia</li>
+        <li>China</li>
+        <li>França</li>
+    </ul>
+    
+    
+</body>
+</html>
