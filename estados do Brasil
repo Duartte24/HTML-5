@@ -1,0 +1,274 @@
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 2</title>
+    <style>
+        body{
+            font-family: Arial, Helvetica, sans-serif; 
+            margin-left: 400px;
+            font-size: large;
+            
+        }
+
+        .nome-oficial{
+    text-align: center;
+    font-weight: bold;
+        }
+
+       
+    </style>
+</head>
+<body>
+    <h1>Estados Do Brasil</h1>
+
+    <p>Os estados do Brasil são as unidades territoriais do país,<br>
+         também conhecidas como unidades federativas. <br>
+         Os estados apresentam seu próprio governo e constituição
+
+<div>
+    
+    <h2>1) Estados da Região Norte</h2> <br>
+    <img src="https://s2.static.brasilescola.uol.com.br/img/2019/08/bandeira-acre.jpg" width="500"  >
+    <ul>
+        <li><b>Nome oficial:</b> Acre</li>
+        <li><b>Sigla:</b> AC</li>
+        <li><b>Capital:</b> Rio Branco</li>
+        <a href=""></a>
+    </ul><br>   
+    
+    
+    
+    <img src="https://s4.static.brasilescola.uol.com.br/img/2019/08/bandeira-amapa.jpg" width="500" >
+    <ul>
+        <li><b>Nome oficial:</b> Amapá</li>
+        <li><b>Sigla:</b> AP</li>
+        <li><b>Capital:</b> Macapá</li>
+        <a href=""></a>
+    </ul><br>
+
+    
+    <img src="https://s3.static.brasilescola.uol.com.br/img/2019/08/bandeira-amazonas(1).jpg" width="500" >
+    <ul>
+        <li><b>Nome oficial:</b> Amazonas</li>
+        <li><b>Sigla:</b> AM</li>
+        <li><b>Capital:</b> Manaus</li>
+        <a href=""></a>
+    </ul><br>
+    
+    
+    <img src="https://s3.static.brasilescola.uol.com.br/be/2021/10/bandeira-para.jpg" width="500" >
+    <ul>
+        <li><b>Nome oficial:</b> Pará</li>
+        <li><b>Sigla:</b> PA</li>
+        <li><b>Capital:</b> Belém</li>
+        <a href=""></a>
+    </ul><br>
+
+    
+    <img src="https://s5.static.brasilescola.uol.com.br/img/2019/08/bandeira-rondonia.jpg" width="500" >
+    <ul>
+        <li><b>Nome oficial:</b> Rondônia</li>
+        <li><b>Sigla:</b> RO</li>
+        <li><b>Capital:</b> Porto Velho</li>
+        <a href=""></a>
+    </ul><br>
+
+
+    <img src="https://s5.static.brasilescola.uol.com.br/be/2021/10/bandeira-roraima.jpg" width="500" >
+    <ul>
+        <li><b>Nome oficial:</b> Roraima</li>
+        <li><b>Sigla:</b> RR</li>
+        <li><b>Capital:</b> Boa Vista</li>
+        <a href=""></a>
+    </ul><br>
+
+
+    <img src="https://s4.static.brasilescola.uol.com.br/be/2021/10/bandeira-tocantins.jpg" width="500" >
+    <ul>
+        <li><b>Nome oficial:</b> Tocantins</li>
+        <li><b>Sigla:</b> To</li>
+        <li><b>Capital:</b> Palmares</li>
+        <a href=""></a>
+    </ul><br>
+    
+    <h2>2) Estados da região Nordeste</h2>
+    <img src="https://s5.static.brasilescola.uol.com.br/be/2021/10/bandeira-maranhao.jpg" width="500" >
+    <ul>
+        <li><b>Nome oficial:</b> Maranhão</li>
+        <li><b>Sigla:</b>MA</li>
+        <li><b>Capital:</b> São Luis</li>
+        <a href=""></a>
+    </ul><br>
+
+    <img src="https://s4.static.brasilescola.uol.com.br/img/2019/08/bandeira-piaui.jpg" width="500px">
+    <ul>
+        <li><b>Nome oficial:</b> Piauí</li>
+        <li><b>Sigla:</b> PI</li>
+        <li><b>Capital:</b> Teresina</li>
+        <a href=""></a>
+    </ul><br>
+
+
+    <img src="https://s5.static.brasilescola.uol.com.br/img/2019/08/bandeira-ceara.jpg" width="500" >
+    <ul>
+        <li><b>Nome oficial:</b> Ceará</li>
+        <li><b>Sigla:</b> CE</li>
+        <li><b>Capital:</b> Fortaleza</li>
+        <a href=""></a>
+    </ul><br>
+    
+
+    <img src="https://s2.static.brasilescola.uol.com.br/be/2021/10/bandeira-rio-grande-do-norte.jpg" width="500" >
+    <ul>
+        <li><b>Nome oficial:</b> Rio Grande do Norte</li>
+        <li><b>Sigla:</b> RS</li>
+        <li><b>Capital:</b> Natal</li>
+        <a href=""></a>
+    </ul><br>
+    
+
+    <img src="https://s1.static.brasilescola.uol.com.br/img/2019/08/bandeira-paraiba.jpg" width="500" >
+    <ul>
+        <li><b>Nome oficial:</b> Paraíba</li>
+        <li><b>Sigla:</b> PB</li>
+        <li><b>Capital:</b> João Pessoa</li>
+        <a href=""></a>
+    </ul><br>
+    
+    
+    <img src="https://s1.static.brasilescola.uol.com.br/be/2021/10/bandeira-pernambuco.jpg" width="500" >
+    <ul>
+        <li><b>Nome oficial:</b> Pernambuco</li>
+        <li><b>Sigla:</b> PE</li>
+        <li><b>Capital:</b> Recife</li>
+        <a href=""></a>
+    </ul><br>
+
+
+    <img src="https://s2.static.brasilescola.uol.com.br/be/2021/10/bandeira-alagoas.jpg" width="500" >
+    <ul>
+        <li><b>Nome oficial:</b> Alagoas</li>
+        <li><b>Sigla:</b> AL</li>
+        <li><b>Capital:</b> Maceió</li>
+        <a href=""></a>
+    </ul><br>
+    
+
+    <img src="https://s1.static.brasilescola.uol.com.br/img/2019/08/bandeira-sergipe.jpg" width="500" >
+    <ul>
+        <li><b>Nome oficial:</b> Sergipe</li>
+        <li><b>Sigla:</b> SE</li>
+        <li><b>Capital:</b> Aracaju</li>
+        <a href=""></a>
+    </ul><br>
+
+    
+    <img src="https://s3.static.brasilescola.uol.com.br/be/2021/10/bandeira-bahia.jpg" width="500" >
+    <ul>
+        <li><b>Nome oficial:</b> Bahia</li>
+        <li><b>Sigla:</b> BA</li>
+        <li><b>Capital:</b> Salvador</li>
+        <a href=""></a>
+    </ul><br>
+
+
+    <h2> 3) Estados do Centro-Oeste</h2>
+    <img src="https://s3.static.brasilescola.uol.com.br/img/2019/08/bandeira-goias.jpg" width="500" >
+    <ul>
+        <li><b>Nome oficial:</b> Goiás</li>
+        <li><b>Sigla:</b> GO</li>
+        <li><b>Capital:</b> Goiânia</li>
+        <a href=""></a>
+    </ul><br>
+
+
+    <img src="https://s2.static.brasilescola.uol.com.br/img/2019/08/bandeira-mato-grosso.jpg" width="500" >
+    <ul>
+        <li><b>Nome oficial:</b> Mato Grosso</li>
+        <li><b>Sigla:</b> MT</li>
+        <li><b>Capital:</b> Cuiabá</li>
+        <a href=""></a>
+    </ul><br>
+
+
+    <img src="https://s4.static.brasilescola.uol.com.br/be/2021/10/bandeira-mato-grosso-do-sul.jpg" width="500" >
+    <ul>
+        <li><b>Nome oficial:</b> Mato Grosso do Sul</li>
+        <li><b>Sigla:</b> MS</li>
+        <li><b>Capital:</b> Campo Grande</li>
+        <a href=""></a>
+    </ul><br>
+
+    <img src="https://s5.static.brasilescola.uol.com.br/be/2021/10/bandeira-distrito-federal.jpg" width="500" >
+    <ul>
+        <li><b>Nome oficial:</b> Distrito federal</li>
+        <li><b>Sede do Governo:</b> Brasilia</li>
+        <a href=""></a>
+    </ul><br>
+
+    <h2>4) Estados da região Sudeste</h2>
+    <img src="https://s4.static.brasilescola.uol.com.br/be/2021/10/bandeira-espirito-santo.jpg" width="500" >
+    <ul>
+        <li><b>Nome oficial:</b> Espirito Santo</li>
+        <li><b>Sigla:</b> ES</li>
+        <li><b>Capital:</b> Vitória</li>
+        <a href=""></a>
+    </ul><br>
+
+
+    <img src="https://s4.static.brasilescola.uol.com.br/be/2021/10/bandeira-minas-gerais.jpg" width="500" >
+    <ul>
+        <li><b>Nome oficial:</b> Minas Gerais</li>
+        <li><b>Sigla:</b> MG</li>
+        <li><b>Capital:</b> Belo Horizonte</li>
+        <a href=""></a>
+    </ul><br>
+
+
+    <img src="https://s5.static.brasilescola.uol.com.br/be/2021/10/bandeira-rio-de-janeiro.jpg" width="500" >
+    <ul>
+        <li><b>Nome oficial:</b> Rio de Janeiro</li>
+        <li><b>Sigla:</b> RJ</li>
+        <li><b>Capital:</b> Rio de Janeiro</li>
+        <a href=""></a>
+    </ul><br>
+
+
+    <img src="https://s1.static.brasilescola.uol.com.br/img/2019/08/bandeira-sao-paulo.jpg" width="500" >
+    <ul>
+        <li><b>Nome oficial:</b> São Paulo</li>
+        <li><b>Sigla:</b> SP</li>
+        <li><b>Capital:</b> São Paulo</li>
+        <a href=""></a>
+    </ul><br>
+
+    <h2>5) Estados da Região Sul</h2>
+    <img src="https://s3.static.brasilescola.uol.com.br/be/2021/10/bandeira-santa-catarina.jpg" width="500" >
+    <ul>
+        <li><b>Nome oficial:</b> Santa Catarina</li>
+        <li><b>Sigla:</b> SC</li>
+        <li><b>Capital:</b> Florianópolis</li>
+        <a href=""></a>
+    </ul><br>
+
+
+    <img src="https://s1.static.brasilescola.uol.com.br/be/2021/10/bandeira-parana.jpg" width="500" >
+    <ul>
+        <li><b>Nome oficial:</b> Paraná</li>
+        <li><b>Sigla:</b> PR</li>
+        <li><b>Capital:</b> Curitiba</li>
+        <a href=""></a>
+    </ul><br>
+
+
+    <img src="https://s1.static.brasilescola.uol.com.br/img/2019/08/bandeira-rio-grande-do-sul.jpg" width="500" >
+    <ul>
+        <li><b>Nome oficial:</b> Rio Grande do Sul</li>
+        <li><b>Sigla:</b> RS</li>
+        <li><b>Capital:</b> Porto Alegre</li>
+        <a href=""></a>
+    </ul><br>
+</div>
+</body>
+</html>
